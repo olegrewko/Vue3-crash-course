@@ -1,9 +1,19 @@
 # vue3-course
 
-## Подписываемся на телеграм 
+## Project setup
+```
+yarn install
+```
 
-[Telegram канал](https://t.me/ulbi_tv)
+### Compiles and hot-reloads for development
+```
+yarn serve
+```
 
+### Compiles and minifies for production
+```
+yarn build
+```
 
-## Если хочешь поддержать меня 
-[Patreon](https://www.patreon.com/ulbitv)
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
